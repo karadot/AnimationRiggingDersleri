@@ -1,4 +1,4 @@
-# Animation Rigging - Basit FullBody IK 
+# Animation Rigging - Basit FullBody FPS 
 Youtube kanalımda oluşturduğum basit FullBodyIK benzeri yapı için C# kodları. 
 Dersten farklı olarak yorum satırlarını ekledim ve biraz daha düzenli olması adına 2 farklı C# dosyasına ayırdım kodları. Üzerinde değişiklikler güncellemeler yapıp geliştirmek size kalmış :)
 
